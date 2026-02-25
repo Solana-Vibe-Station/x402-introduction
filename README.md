@@ -40,5 +40,7 @@ Each project has its own README with specific instructions:
 - npm
 - Solana wallet with USDC (for testing)
 
-You can fund test wallets with USDC via: https://faucet.circle.com/
-You can fund test wallets with SOL via: https://faucet.solana.com/
+## Funding
+
+- You can fund test wallets with USDC via: https://faucet.circle.com/
+- You can fund test wallets with SOL via: https://faucet.solana.com/
