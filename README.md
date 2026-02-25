@@ -1,5 +1,15 @@
 # x402 Introduction Projects
 
+Codebase for the accompanying video: https://youtu.be/7TsHiP9p2AY
+
+### What this repo is for
+This repository is a **learning-focused example** meant to help you understand:
+
+1. What the x402 standard is?
+2. What specifications and use cases it has?
+3. How to send x402 payments as a client?
+4. How to build a server client to facilitate x402 transactions?
+
 This repository contains two implementations of pay-per-request APIs using x402 on Solana devnet:
 
 ## Projects
